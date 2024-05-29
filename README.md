@@ -3,3 +3,6 @@ This project uses Mediapipe and deep learning to detect tremors associated with 
 
 #### Mediapipe Detection
 ![image](https://github.com/SuriyaPradeep/Tremor-Detection/assets/122858374/a00d3548-5f85-42d2-b101-77c7dc542bfb)
+
+![image](https://github.com/SuriyaPradeep/Tremor-Detection/assets/122858374/d5377965-4d1c-4aec-8731-2280adafa040)
+
